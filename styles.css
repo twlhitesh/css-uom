@@ -1,0 +1,44 @@
+/* CSS rule to modify the font family and font size properties for the body tag */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* CSS rule to modify the background color property for the header tag */
+header {
+    background-color: #f0f0f0;
+}
+
+/* CSS rule to modify the background color property for the nav tag */
+nav {
+    background-color: #c0c0c0;
+}
+
+/* CSS rule to modify the background color and font size property for the main tag */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+/* CSS rule to modify the background color property for the footer tag */
+footer {
+    background-color: #f0f0f0;
+}
+
+/* CSS rule to modify the display and width properties for the li tag */
+li {
+    display: inline-block;
+    width: 120px;
+}
+
+/* CSS rule to modify the text alignment, font family, and color properties for the h1 tag */
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", serif;
+    color: #333333;
+}
+
+/* CSS rule to modify the line height property for the p tag */
+p {
+    line-height: 1.5;
+}
